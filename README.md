@@ -19,8 +19,8 @@ She in the mirror dancin' so sleazy
 I get a call like, "Where are you, Yeezy?"
 And try to hit you with the ol-wu-wopte
 'Til I got flashed by the paparazzi
-Damn, these niggas got me
-I hate these niggas more than the Nazis
+Damn, these n***** got me
+I hate these n**** more than the Nazis
 
 [Chorus: Dwele & Connie Mitchell]
 As I recall, I know you love to show off
@@ -29,16 +29,6 @@ But what do I know?
 Flashing lights
 What do I know? Know
 Flashing lights
-See Kanye West Live
-Get tickets as low as $641
-
-You might also like
-THE HEART PART 6
-Drake
-Family Matters
-Drake
-​meet the grahams
-Kendrick Lamar
 
 [Verse 2: Kanye West]
 I know it's been a while, sweetheart
