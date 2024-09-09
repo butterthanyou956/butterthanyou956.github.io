@@ -1,0 +1,27 @@
+.Title {
+    font-size: 60;
+    font-weight: bold;
+    padding: 0px 0px 0px 0px;
+}
+.bold {
+    font: 20px;
+    font-weight: bold;
+}
+td {
+    padding: 0 0px;
+}
+.noSpace {
+    border-spacing: 0px;
+}
+.normaltext {
+    font-size: 50px;
+
+}
+html {
+    background-color: rgb(255, 214, 214);
+
+}
+.dWord {
+    font-weight: bold;
+    text-decoration: underline;
+}
